@@ -1,0 +1,14 @@
+- Venda De Um Produto No Mercado Livre
+
+1) Início
+2) Criar anúncio
+3) Preencher detalhes do produto
+4) Divulgar anúncio
+5) Vendeu?
+	- Não. Voltar ao passo 4)
+	- Sim. Seguir ao passo 6)
+6) Gerar nota fiscal
+7) Postagem do produto
+8) Receber pagamento
+9) Fim
+	
